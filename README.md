@@ -1,7 +1,7 @@
 # IRON MAN FACE USING PYTHON!
 
 # ABOUT THIS FILE:
--This python file uses the in-built module turtle to consruct iron man image.
+-This python file uses the in-built module turtle to construct iron man image.
 
 ## Project Structure
 -The code was typed in gitbash command line.
